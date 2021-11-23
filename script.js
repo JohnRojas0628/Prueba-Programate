@@ -16,23 +16,23 @@ window.alert(textfull);
 
 switch (resultado){
 case "Ornitorrinco":
-  imgpath="./IMAGENES/Ornitorrinco.png"
+  imgpath="./assets/img/Ornitorrinco.png"
   text1="Tu animal es Ornitorrinco"
   break
 case "Jirafa":
-  imgpath="./IMAGENES/Jirafa.png"
+  imgpath="./assets/img/Jirafa.png"
   text1="Tu animal es jirafa"
   break
-case "./IMAGENES/Ballena":
-  imgpath="Ballena.png"
+case "Ballena":
+  imgpath="./assets/img/Ballena.png"
   text1="Tu animal es Ballena"
   break
-case "./IMAGENES/Pez_Payaso":
-  imgpath="Pez_Payaso.png"
+case "Pez_Payaso":
+  imgpath="./assets/img/Pez_Payaso.png"
   text1="Tu animal es Pez Payaso"
   break
-case "./IMAGENES/Serpiente":
-  imgpath="Serpiente.png"
+case "Serpiente":
+  imgpath="./assets/img/Serpiente.png"
   text1="Tu animal es Serpiente"
   break
 }
